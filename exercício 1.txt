@@ -1,0 +1,8 @@
+exercício 1 
+
+1
+1- PAN pois e um ligação entre equipamentos pessoais 
+2- LAN pois os computadores estão todos interligados agindo com cliente e o router com servidores
+3- CAN pois a ligação liga todas as estruturas da faculdade que pode ter ate 5 km
+4- LAN pois a smart tv esta a ser cliente e a box esta a agir com servidor  
+5- PAN pois os tabletes estão a compartilhar informações pelo nfc que não possui muito alcance  
