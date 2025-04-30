@@ -1,0 +1,13 @@
+1 PAN
+   [tablet] ---- (WIFI) ---- [Impressora]
+  
+2 LAN
+   [PC 1] \
+   [PC 2]  -----(switich) ----  [edificio de aulas]
+   [PC 3] /
+
+3 CAN
+  [edificio 1]  --- (fibra óptica)  ----  [edificio 2] 
+                                        \ [edificio 3]
+                                        
+feito por Rafael marques, Ricardo Jacinto
