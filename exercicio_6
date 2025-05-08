@@ -1,11 +1,12 @@
 A)
  1 ii (cat6a)
  2 iii( fibra monomodo)
- 3 ii (cat6a)
- 4 i (cat6)
+ 3 i (cat6)
+ 4 iii (fibra monomodo)
 
 B)
-eu escolhi a fibra monomodo no cenario 2 por a fibra pode ir ate 40gbs e como diz no cenario 2 e de alto consumo
+eu escolhi a fibra monomodo no cenario 2 por a fibra monomodo ter alcance de ate 200 metros sem repetidores e baixa latencia
 
 C)
-os cabos que pode usar PoE (Power over Ethernet) são o cat6 e cat6a
+os cabos que pode usar PoE (Power over Ethernet) são o cat6
+ 
