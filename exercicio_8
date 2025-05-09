@@ -1,17 +1,22 @@
 a)
-smartphone:2.4 ou 5 GHz mas depende do modelo mas nao e necessario se on foco nao for velocodade 2.4GHz sera o soficiente
-computador portatil:5GHz mesmo sendo portatil e necessario uma velocidade bom como 5GHz ja que a banda 2.4 Ghz e focanda mais em area e nao velocidade
+smartphone:2.4 e 5 GHz mas depende do modelo mas nao e necessario se on foco nao for velocodade 2.4GHz sera o suficiente
+
+computador portatil:2.4 GHz e 5GHz mesmo sendo portatil e necessario uma velocidade bom como 5GHz ja que a banda 2.4 Ghz e focanda mais em area e nao velocidade
+
 televisor smart:2.4GHz ja que oferencem uma area maior mas pode sacrificar uma parte de velocodade
+
 plataforma de streming:5GHz ja que as normalmente nao queres mais area mas velocidade 
+
 dispositivo IoT:2.4 GHz porque esta frequencia nao e tao rapido mas os dispositivos IoT normalmente nao necessitao de muita velocidade 
 
 b)
 802.11ax (WIFI 6) por ser uma ou a mais atual que tem acesso a banda 2.4 e 5GHz  assim podendo ussar todos os dipositivos e sendo uma das mais rapidas que pode
-cobrir toda a area da casa se nao for muito grande
+cobrir toda a area da casa
 
 c)
 deves usar uma rede visitante para pervenir pessoas mal intessionado nao acessar os dados ou robar dados onde a rede visitante e separada da rede central
 uma desgatangem e necessitar uma password diferente
 
 d)
-as medidias de segurança são ocultar o ssid ou o nome da rede e criar uma rede para visitante e uma passeword forte e firewall 
+as medidias de segurança são ocultar o ssid ou o nome da rede e criar uma rede para visitante e uma passeword forte e ussar wpa2 ou wpa3 
+correção:
