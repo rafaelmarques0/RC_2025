@@ -8,3 +8,12 @@ c)
 as vantagens de um HUB contra um switch e o preço que um hub e mais barato que um switch 
 as devatagens sao as colisões de dados pouca seguraça ja que o hub manda a todos os computadores ao contra o switch que manda para o computador que querer
 
+-correção-
+c)
+vatagem HUB      |      devatagens HUB
+ mais barato     |      
+                 |      baixa eficiencia
+                 |
+vatagem switch   |      devatagens switch
+desempenho alto  |        preço alto
+                 |
