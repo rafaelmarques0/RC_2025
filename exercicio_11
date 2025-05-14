@@ -1,0 +1,11 @@
+            Função           | Bridge | Switch | Router |
+Liga segmentos da mesma rede |   X    |    V   |   V    |
+                             |________|________|________|
+Encaminha por endereço MAC   |   X    |    V   |   X    |
+                             |________|________|________|
+Encaminha por endereço IP    |   V    |    X   |   V    |
+                             |________|________|________|
+      Acede á Internet       |   V    |    X   |   V    |
+                             |________|________|________|
+Trabalha em que camada OSI   |   1    |    2   |   3    |
+                             |________|________|________|
