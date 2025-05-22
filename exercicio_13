@@ -1,0 +1,25 @@
+1   camada 1) fisico
+    camada 2) ligação de dados
+    camada 3) rede
+    camada 4) transporte
+    camada 5) sessão
+    camada 6) apresentação
+    camada 7) aplicação
+2
+2.1
+    camada 1) fisico/ Transmite bits brutos através do meio físico de comunicação (cabo, fibra óptica, etc.). 
+    camada 2) ligação de dados/ Transmite dados dentro de uma única rede, detectando e corrigindo erros. 
+    camada 3) rede/ Define a melhor rota para os pacotes de dados entre redes, utilizando endereços IP. 
+    camada 4) transporte/ Garantia a entrega confiável dos dados, fragmentando e re-montando os dados, usando protocolos como TCP e UDP. 
+    camada 5) sessão/ Estabelece, mantém e termina as conexões entre aplicações. 
+    camada 6) apresentação/ Formata e traduz os dados para um formato que a aplicação entenda, cuidando de criptografia e compressão. 
+    camada 7) aplicação/ É a camada mais próxima do usuário, que fornece serviços de rede para aplicações como e-mail, transferência de arquivos, etc. 
+    
+2.2 e 2.3
+    camada 1) fisico / Cabo de rede desconectado ou danificado / Verifique se os cabos estão conectados e sem danos .
+    camada 2) ligação de dados / colisões de dados / analisar a rede para verificar se a colisões e corrigir o promblema
+    camada 3) rede / Roteamento incorreto ou perda de pacotes / Teste se o IP está configurado corretamente.
+    camada 4) transporte / Porta bloqueada por firewall ou perda de sessão / Verifique se conexões TCP ou UDP são estabelecidas.
+    camada 5) sessão / Interrupção na sessão entre cliente e servidor / Verifique se a sessão entre cliente e servidor se mantém estável 
+    camada 6) apresentação / Incompatibilidade de formatos de dados / Verifique se os dados estão sendo exibidos corretamente e sao do tipo correto.
+    camada 7) aplicação / Aplicativo ou serviço indisponível / saber se o aplicativo esta a funcionar ou e um ficheiro corrupindo que esta a causar o promblema
