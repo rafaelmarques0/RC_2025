@@ -1,0 +1,27 @@
+1  camada 1) acesso a rede / Lida com a transmissão física de dados, incluindo a escolha do meio de comunicação
+   camada 2) internet / Define a forma como os dados são endereçados e roteados na rede
+   camada 3) transporte / Responsável pela gestão da comunicação entre aplicações, incluindo o envio e recepção de dados
+   camada 4) aplicação / É o nível mais alto, onde as aplicações de rede interagem
+   
+2  1) acesso a rede / Ethernet / bits 
+   2) internet / IPv4 /  pacotes IP
+   3) transporte / TCP / segmentos de dados (TCP) ou datagramas (UDP). 
+   4) aplicação / HTTP / textos, imagens, vídeos entre outros 
+   
+3
+_____________________________________________________________________________________________________
+|Camada do     | Função na comunicação entre      |                         |                       |
+|Modelo TCP/IP |          a Ana e Maria           |Protocolo(s) Possivel(is)|Unidade de Informação  |
+|______________|__________________________________|_________________________|_______________________|
+|Aplicação     |É o nível mais alto, onde as      |        HTTP             |      textos           |
+|              |aplicações de rede interagem      |                         |                       |
+|______________|__________________________________|_________________________|_______________________|
+|Transporte    |Responsável pela gestão da        |       TCP/UDP           |segmentos de dados(TCP)|
+|              |comunicação entre aplicações      |                         |ou datagramas(UDP)     |
+|______________|__________________________________|_________________________|_______________________|
+|Internet      |Define a forma como os dados      |         pacotes IP      |     pacotes IP        |
+|              |são endereçados e roteados na rede|                         |                       |
+|______________|__________________________________|_________________________|_______________________|
+|Acesso a Rede |Lida com a transmissão|           |     Wi-Fi/Ethernet      |      bits             |
+|              | física de dados                  |                         |                       |
+|______________|__________________________________|_________________________|_______________________|
