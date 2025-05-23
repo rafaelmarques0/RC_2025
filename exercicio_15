@@ -1,0 +1,22 @@
+________________________________________________________________________________________________________________________________________
+|              | Função principal                              |                         |                                              |
+|protocolo     |                                               |camada do modelo         |exemplo de utilialização                      | 
+|______________|_______________________________________________|_________________________|______________________________________________|
+|HTTPS         |garantir a segurança na transmissão            |                         |quando se compra online ou acede a um banco,  |
+|              |de dados entre um navegador web e um servidor  |aplicação/camada 4       |onde informações como dados de                |
+|              |                                               |                         | cartão de crédito ou senhas são transmitidas |
+|______________|_______________________________________________|_________________________|______________________________________________|
+|TCP           |garantir uma comunicação de dados              |                         |na navegação web                              |
+|              |confiável e orientada à conexão na rede        |transporte/ camada 3     |                                              |
+|______________|_______________________________________________|_________________________|______________________________________________|
+|DNS           |convertem solicitações de nomes em endereços IP|                         |                                              |
+|              | controlando qual servidor um usuário vai      |aplicação/camada 4       |resolução de nomes de domínio em endereços IP |
+|______________|_______________________________________________|_________________________|______________________________________________|
+|ICMP          |comunicar problemas e erros de                 |                         | o utilizador ping invia uma mesagem ICMP para|
+|              |transmissão de dados em uma rede IP            |acesso a rede/camada 1   |verificar se a resporta pode se ver a latencia|
+|______________|_______________________________________________|_________________________|______________________________________________|
+|FTP           |transferir arquivos entre computadores         |                         |                                              |
+|              |em uma rede, utilizando o                      |aplicação/camada 4       |transferência de arquivos entre um computador |
+|              |modelo cliente-servidor                        |                         |local e um servidor de hospedagem de sites    |
+|              |                                               |                         |                                              |
+|______________|_______________________________________________|_________________________|______________________________________________|
